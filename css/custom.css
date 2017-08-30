@@ -16,6 +16,7 @@ a { font-family: "Open Sans", sans-serif }
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
     z-index: 10;
     position: relative;
+    position:fixed;width:100%;
 }
 .group.top-nav { margin-bottom: -20px }
 .group.top-nav nav a { text-decoration: none }
